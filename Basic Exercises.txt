@@ -1,0 +1,15 @@
+Basic Exercises
+
+1. Write a Python program to print "Hello, World!" to the screen.
+2. Ask the user for their name and age, and then print out a greeting message with their name and age.
+3. Write a program that takes a list of numbers as input and prints out the sum of the numbers.
+4. Write a program that takes a string as input and prints out the length of the string.
+5. Write a program that asks the user for a number and then prints out whether the number is even or odd.
+
+6. Write a program that uses a for loop to print out the numbers from 1 to 10
+7. Write a program that uses an if-else statement to print out whether a number is positive, negative, or zero.
+8. Write a program that defines a function to calculate the area of a rectangle, and then calls the function with different inputs.
+9. Write a program that defines a function to convert Celsius to Fahrenheit, and then calls the function with different inputs.
+10. Write a program that defines a function to find the maximum value in a list of numbers, and then calls the function with different inputs.
+11. Write a program that defines a function to sort a list of numbers in ascending order, and then calls the function with different inputs.
+12. Write a program that defines a function to find the factorial of a number, and then calls the function with different inputs.
